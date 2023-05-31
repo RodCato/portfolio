@@ -214,6 +214,16 @@ button {
   align-items: center;
 }
 
+.projectpic {
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
 .center {
   display: flex;
   align-items: center;
