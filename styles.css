@@ -203,6 +203,11 @@ button {
   transform: translateY(-5px);
 }
 
+.sticky-nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
 /*========
   layout
 ========*/
@@ -404,6 +409,7 @@ main {
   .display-nav-list {
     width: 100%;
   }
+ 
 
   .nav__list-item {
     margin: 0.5em 0;
