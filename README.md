@@ -1,6 +1,6 @@
 # Portfolio V1 built with Html, CSS and Javascript only. (REDID WHOLE PORTFOLIO IN GATSBY)
 
-[Gatsby/Tailwimd Version](https://github.com/RodCato/Gatsby-Tailwind)
+[Gatsby/Tailwind Version](https://github.com/RodCato/Gatsby-Tailwind)
 
 
 [My portfolio is live!](https://rodcato.github.io/portfolio/)
